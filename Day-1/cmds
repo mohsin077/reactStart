@@ -1,0 +1,7 @@
+npm i create-react-app -g
+
+create-react-app hello-world
+
+cd ./hello-world
+
+npm start
